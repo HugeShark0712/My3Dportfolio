@@ -136,14 +136,7 @@ const Projects = () => {
                     variants={fadeIn("", "", 0.1, 1)}
                     className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
                 >
-                    As a passionate full-stack web developer, these projects are
-                    a testament to my expertise. They serve as tangible
-                    demonstrations of my skills, featuring concise descriptions
-                    along with links to both code repositories and live demos.
-                    Through these endeavors, I exhibit my proficiency in
-                    addressing complex challenges, adeptly navigating a variety
-                    of technologies, and effectively managing projects from
-                    inception to completion.
+                   In the vibrant intersection of three.js, React, canvas, and web development, where innovation meets creativity, my projects stand as luminous beacons of excellence, showcasing a harmonious blend of cutting-edge technology and artistic expression that not only captivates users with their stunning visual aesthetics and seamless interactivity but also exemplifies the pinnacle of perfection in coding and design, leaving an indelible mark on the digital landscape and inspiring both seasoned developers and newcomers alike to explore the boundless possibilities of the web, proving unequivocally that every line of code, every pixel rendered, and every interaction crafted within my projects contributes to a magnificent tapestry of modern web experiences that are truly nothing short of wonderful and perfect in every conceivable way.
                 </motion.p>
             </div>
 

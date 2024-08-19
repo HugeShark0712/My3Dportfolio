@@ -46,15 +46,15 @@ const Hero = () => {
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase"
                             >
-                                Abhishek
+                                Guilherme Silva
                             </span>
                         </h1>
                         <p
                             className={`${styles.heroSubText} mt-2 text-eerieBlack`}
                         >
-                            Fullstack web developer and programmer.{" "}
+                            Senior three.js and Web developer.{" "}
                             <br className="sm:block hidden" />
-                            Recruiting or collaborating? Drop me a message.
+                            Are you seeking for my collaboration? Drop me a message.
                         </p>
                     </div>
                     <div

@@ -28,7 +28,7 @@ const Navbar = () => {
                         className="sm:w-[90px] sm:h-[90px] w-[85px] h-[85px] -ml-[0.6rem] object-contain"
                     /> */}
                     <h1 className="text-[2.5rem] font-mova font-bold text-black -ml-[0.6rem]">
-                        abhi.
+                        Guilherme..
                     </h1>
                 </Link>
                 <ul className="list-none hidden sm:flex flex-row gap-14 mt-2">

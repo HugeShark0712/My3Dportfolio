@@ -44,11 +44,9 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
             >
-Welcome to my corner of the web! I'm Abhishek Upadhyay, a passionate web developer based in India. With a solid foundation in Computer Science and Engineering, I graduated with honors and have since dived headfirst into the dynamic world of web development.<br/>
-My journey began with a curiosity for crafting digital experiences that are both intuitive and impactful. During my academic years and beyond, I honed my skills in frontend and backend technologies like React, Node.js, and MongoDB, allowing me to build robust applications that meet modern standards.<br/>
-Driven by a love for clean code and effective problem-solving, I thrive in turning ideas into reality. My projects such as TaskZen, Pulse Chat, and Blog-Bridge showcase not only my technical prowess but also my commitment to creating solutions that enhance user experiences.<br/>
-Beyond coding, I value collaboration and continuous learning. As a proactive learner, I stay updated with the latest industry trends and best practices, ensuring that my solutions are not just functional but also scalable and efficient.<br/>
-Whether you're looking to enhance your online presence, streamline operations, or innovate with new digital solutions, I'm here to help. Let's connect and explore how we can transform your ideas into successful projects that make a difference.
+Welcome to my corner of the web! As a passionate web developer with years of experience in Three.js, React, and Canvas, I specialize in creating immersive and interactive web experiences that captivate users and elevate brands. With a strong commitment to excellence and a keen eye for detail, I thrive at the intersection of art and technology, perfectly blending aesthetics and functionality.
+
+I bring ideas to life in 3D with innovative applications of Three.js, transforming traditional web interfaces into dynamic visual narratives. My proficiency with React allows me to build modular, high-performance applications that enhance user engagement and streamline the development process. Additionally, my mastery of Canvas allows me to create stunning graphics and animations that enrich user experiences.
             </motion.p>
 
             <div className="mt-20 flex flex-wrap gap-10">

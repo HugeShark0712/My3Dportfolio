@@ -46,103 +46,83 @@ export const navLinks = [
 
 const services = [
     {
-        title: "Frontend Developer",
+        title: "Three.js expert",
         icon: frontend,
     },
     {
-        title: "Backend Developer",
+        title: "Canvas developer",
         icon: backend,
     },
     {
-        title: "UI/UX Design",
+        title: "React.js developer",
         icon: ux,
     },
     {
-        title: "Problem Solving",
+        title: "Senior web developer",
         icon: problemsolving,
     },
 ]
 
 const technologies = [
-    {
-        name: "HTML 5",
-        icon: html,
+     {
+        name: "Three.js",
+        icon: redux,
     },
+
     {
-        name: "CSS 3",
+        name: "React Native",
         icon: css,
-    },
-    {
-        name: "JavaScript",
-        icon: javascript,
     },
 
     {
         name: "React JS",
         icon: reactjs,
     },
+   
     {
-        name: "Redux",
-        icon: redux,
-    },
-    {
-        name: "Tailwind",
+        name: "React Framework",
         icon: tailwind,
     },
     {
-        name: "Node JS",
+        name: "Mern stack",
         icon: nodejs,
     },
+
     {
-        name: "Express JS",
-        icon: expressjs,
-    },
-    {
-        name: "Mongo DB",
-        icon: mongodb,
-    },
-    {
-        name: "Java",
-        icon: java,
-    },
-    {
-        name: "Python",
+        name: "Canvas",
         icon: python,
     },
+
     {
-        name: "C",
-        icon: c,
-    },
-    {
-        name: "git",
+        name: "Web development",
         icon: git,
     },
 ]
 
 const experiences = [
     {
-        title: "Filo Private Tutor",
+        title: "",
         company_name: "Filo",
         icon: coverhunt,
         iconBg: "#333333",
-        date: "Sept 2022 - Mar 2023",
-        body: "Offered tutoring in physics, chemistry, mathematics, and computer science. Assisted students in understanding key concepts and enhancing academic performance.",
+        date: "2021 -2022",
+        body: "I embarked on a transformative journey as a web developer specializing in Three.js, React.js, and canvas technologies. Eager to push the boundaries of interactive web experiences, I honed my skills in Three.js, immersing myself in the intricacies of 3D graphics and rendering, while simultaneously mastering React.js to build dynamic, responsive user interfaces. Throughout that year, I contributed to several high-profile projects, creating immersive visualizations that fused creativity with technical prowess",
     },
     {
-        title: "Front-End Developer Intern",
+        title: "",
         company_name: "Codeway Solutions",
         icon: coverhunt,
         iconBg: "#333333",
-        date: "Jan 2024 - Feb 2024",
-        body: "Resolved issues and designed new user interfaces for several web apps. (landing page, calculator). Achieved 50+ github code contributions as an intern on the team.",
+        date: "2022- 2023",
+        body: "I expanded my horizons by exploring the latest advancements in the web development ecosystem, such as WebGL and the emerging technologies associated with the Metaverse. Understanding the necessity of collaboration, I focused on cross-functional teamwork, collaborating with designers and backend developers to create fully-fledged applications that pushed the limits of traditional web design. My focus on performance optimization and accessibility ensured that the products resonated with diverse user groups, making interactive 3D content available to a wider audience.",
     },
     {
-        title: "Full Stack Developer Intern",
+        title: "",
         company_name: "CodeClause",
         icon: coverhunt,
         iconBg: "#333333",
-        date: "Feb 2024 - Mar 2024",
-        body: "During my internship, I developed three significant projects: a dynamic portfolio, a secure file-sharing platform, and an intuitive resume builder. I made substantial contributions to these projects, logging over 100 commits on GitHub, showcasing my commitment to innovation and collaborative development.",
+        date: "Jan 2024 - Recent 2024",
+        body: " I had established myself as a recognized thought leader in the development community, regularly contributing to international conferences and tech meetups, discussing the future of interactive web applications and the integration of 3D graphics in everyday user experiences. My comprehensive portfolio reflected a diverse array of projects, from complex data visualizations to engaging educational tools, all built using Three.js and React.js. As I continued to innovate and lead, my commitment to fostering inclusive tech environments remained strong, mentoring the next generation of developers and advocating for best practices in web development. ",
     },
 ]
 
